@@ -1,1 +1,1 @@
-# alx-low_level_programming
+And thus the journey of C begins
