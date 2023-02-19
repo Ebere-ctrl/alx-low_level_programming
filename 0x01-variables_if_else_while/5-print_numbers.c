@@ -9,8 +9,8 @@ int main(void)
 unsigned int numbers;
 for (numbers = 0; numbers < 10; ++numbers)
 {
-	putchar(numbers);
+	printf("%u", numbers);
 }
-putchar('\n');
+printf('\n');
 return (0);
 }
